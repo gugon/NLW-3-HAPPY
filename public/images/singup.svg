@@ -1,0 +1,11 @@
+<svg width="40" height="32" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="34" width="42" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="bold" stroke="#000000" transform="matrix(2.153805234473583,0,0,3.9548138907517383,14.345786648235343,10.550238437921006) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="5" id="svg_3" y="2.76317" x="-6.60153" stroke-width="0" fill="#8d734b">Sing up</text>
+ </g>
+</svg>

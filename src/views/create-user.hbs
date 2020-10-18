@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Insira seu nome email | Happy</title>
+    <link rel="icon" href="/images/logo-icon.png" />
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/animations.css" />
+    <link rel="stylesheet" href="/css/sidebar.css" />
+    <link rel="stylesheet" href="/css/form.css" />
+    <link rel="stylesheet" href="/css/buttons.css" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet" />
+</head>
+
+
+<body>
+    <div id="create-users">
+        <aside class="animate-right sidebar">
+            <img src="/images/map-marker.svg" alt="Happy">
+
+            <footer>
+                <button onclick="history.back()">
+                    <img src="/images/arrow-back.svg" alt="Voltar" />
+                </button>
+            </footer>
+        </aside>
+
+        <main class="animate-appear with-sidebar">
+            <form action="save-orphanage" method="post" onsubmit="validate(event)">
+
+                <fieldset>
+                    <legend>Cadastro</legend>
+
+
+                    <div class="input-block">
+                        <label for="username">UserName</label>
+                        <input id="username" name="username" required />
+                    </div>
+
+                    <div class="input-block">
+                        <label for="pass">Password</label>
+                        <input id="pass" name="pass" required />
+                    </div>
+
+                    <div class="input-block">
+                        <label for="email">E-mail</label>
+                        <input id="email" name="email" required />
+                    </div>
+
+                    <button type="sumit" class="primary-button">
+                        Confirmar
+                    </button>
+                </fieldset>
+            </form>
+        </main>
+
+    </div>
+    <script src="/scripts/page-create-cadastroUser.js"></script>
+</body>
+
+</html>

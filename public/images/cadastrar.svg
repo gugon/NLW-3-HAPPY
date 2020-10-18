@@ -1,0 +1,11 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000000" transform="matrix(1.4232859401684808,0,0,1.9172487318212383,5.740063789378079,5.178671215006386) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="5" id="svg_3" y="7.13214" x="-4.01576" stroke-width="0" fill="#8d734b">Cadastrar</text>
+ </g>
+</svg>
