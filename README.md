@@ -1,8 +1,10 @@
-<h1 align="center">Next level Week&emsp;NLW3 &emsp;HAPPY</h1>
+<h1 align="center">Next level Week&emsp;|&emsp;NLW3 &emsp;|&emsp;HAPPY</h1>
 
 
 <h2>O que é next level week?</h2> 
-<p> NLW é um evento on-line realizado pela rocketseat, está na terceira edição, totalmente gratuito, essa aplicação foi desenvolvida na trilha Discovery, tendo como isntrutor  @maykbrito da @Rocketseat</p>
+<p> NLW é um evento on-line realizado pela rocketseat, está na terceira edição, totalmente gratuito, essa aplicação foi desenvolvida na trilha Discovery, tendo como instrutor
+<a href="https://github.com/maykbrito">Mayk Brito</a> da
+<a href="https://github.com/Rocketseat">Rocketseat</a></p>
 
 <h2>Proposta</h2>
 <p> Proposta foi criar uma plataforma para cadastrar Orfanatos onde mostrasse algumas informações sobre o local, tais como horário de funcionamento e localização com o intuito da realização de visitas</p>
